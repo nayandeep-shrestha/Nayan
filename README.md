@@ -1,17 +1,19 @@
-<h1 align="left">Hey 👋, I'm Nayandeep Shrestha!</h1>
+<h1 align="left">Hey,👋 I'm Nayandeep Shrestha!</h1>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/nayandeep-shrestha-a9a08a23a/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.facebook.com/nayandeep.shrestha">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+  <a href="https://www.facebook.com/nayandeep.shrestha">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </div>
 
 ###
 
-<h2 align="left"><img src="https://www.flaticon.com/free-animated-icon/artificial-intelligence_10971749?term=technology&page=1&position=4&origin=search&related_id=10971749"/>Glad to see you here!</h2>
+<h2 align="left">Glad to see you here!</h2>
 
 ###
 
@@ -19,7 +21,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left"><img src="./tech.png" width="32px"/> I code with</h2>
 
 ###
 
@@ -57,7 +59,7 @@
 
 ###
 
-<h2 align="left">Stats:</h2>
+<h2 align="left"><img src="./stats.png" width="32px"/> Stats:</h2>
 
 ###
 
